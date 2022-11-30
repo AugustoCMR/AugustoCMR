@@ -10,7 +10,7 @@ I am recent engineering graduate looking for opportunities and collabaration in 
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/rbraugusto/)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AugustoCMR&show_icons=true&theme=radical) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AugustoCMR&show_icons=true&theme=radical) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AugustoCMR&layout=compact)](https://github.com/AugustoCMR/github-readme-stats)
 
 
 
