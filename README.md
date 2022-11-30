@@ -5,9 +5,9 @@
   <img align="right" alt="AMOGUS" height="150" style="border-radius:50px;" src="my-gif.gif">
 </div>
 
-<div <br>
+<br>
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/rbraugusto/)
-</div>
+
 
 <div align="center">
   <a href="https://github.com/AugustoCMR">
