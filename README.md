@@ -2,8 +2,9 @@
 
 <br>
 
-- 🌱 Estou aprendendo Java, WebDev e Banco de dados 
+- 🌱 Estou aprendendo Java, WebDev e Banco de dados.
 - 📫 Como me contactar: Linkedin logo abaixo!
+- 🔭 Atualmente em busca do primeiro emprego como Dev.
 
 <div align=center>
     <h2>Ferramentas e Tecnologias</h2>
