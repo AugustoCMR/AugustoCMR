@@ -1,9 +1,26 @@
 ### Hey 👋
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="DevIcon-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
-  <img align="right" alt="AMOGUS" height="150" style="border-radius:50px;" src="my-gif.gif">
+<br>
+
+- 🌱 Estou aprendendo Java, WebDev e Banco de dados 
+- 📫 Como me contactar: Linkedin logo abaixo!
+
+<div align=center>
+    <h2>Ferramentas e Tecnologias</h2>
 </div>
+
+<div style="display: inline_block" align=center><br>
+  <img align="center" alt="DevIcon-Java" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+  <img align="center" alt="DevIcon-mySQL" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/> 
+  <img align="center" alt="DevIcon-MongoDB" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" />
+  <img align="center" alt="DevIcon-MongoDB" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
+</div>
+
+<!--
+<div align=center>
+    <h3>Estou aprendendo:</h3>
+</div>
+-->
 
 <div align = center><br>
 <a href="https://www.linkedin.com/in/rbraugusto/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
@@ -19,17 +36,3 @@
 
 
 
-<!--
-**AugustoCMR/AugustoCMR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
