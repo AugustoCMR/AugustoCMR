@@ -2,7 +2,7 @@
 
 <br>
 
-- 🌱 Estou aprendendo NodeJs e Banco de dados.
+- 🌱 Estou aprendendo NodeJs | TypeScript | SQL | Git
 - 📫 Como me contactar: Linkedin logo abaixo!
 - 🔭 Atualmente em busca do primeiro emprego como Dev.
 
