@@ -2,7 +2,7 @@
 
 <br>
 
-- 🌱 Estou aprendendo NodeJs | TypeScript | SQL | Git
+- 🌱 Estou aprendendo: NodeJs | TypeScript | SQL | Git
 - 📫 Como me contactar: Linkedin logo abaixo!
 - 🔭 Atualmente em busca do primeiro emprego como Dev.
 
@@ -13,7 +13,8 @@
 <div style="display: inline_block" align=center><br>
   <img align="center" alt="DevIcon-Java" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"> 
   <img align="center" alt="DevIcon-Nodejs" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg"/> 
-  <img align="center" alt="DevIcon-Javascript" height="50" width="50" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/javascript.svg">     
+  <img align="center" alt="DevIcon-Javascript" height="50" width="50" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/javascript.svg">   
+  <img align="center" alt="DevIcon-Typescript" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />  
   <img align="center" alt="DevIcon-mySQL" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/> 
   <img align="center" alt="DevIcon-MongoDB" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" />
 </div>
