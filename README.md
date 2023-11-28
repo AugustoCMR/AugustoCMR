@@ -4,7 +4,7 @@
 
 - 🌱 Estou aprendendo: NodeJs | TypeScript | SQL | Git
 - 📫 Como me contactar: Linkedin logo abaixo!
-- 🔭 Atualmente em busca do primeiro emprego como Dev.
+- 🔭 Atualmente em busca de uma vaga como Dev Back-end.
 
 <div align=center>
     <h2>Ferramentas e Tecnologias</h2>
