@@ -2,9 +2,9 @@
 
 <br>
 
-- 🌱 Estou aprendendo: NodeJs | TypeScript | SQL | Git
+- 🌱 Estou aprendendo: Html-css-js | PHP | SQL | Git 
 - 📫 Como me contactar: Linkedin logo abaixo!
-- 🔭 Atualmente em busca de uma vaga como Dev Back-end.
+- 🔭 Atualmente estudando para me desenvolver como Full Stack
 
 <div align=center>
     <h2>Ferramentas e Tecnologias</h2>
