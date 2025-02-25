@@ -4,7 +4,7 @@
 
 - 🌱 Estou aprendendo: Html-css-js | PHP | SQL | Git 
 - 📫 Como me contactar: Linkedin logo abaixo!
-- 🔭 Atualmente estudando para me desenvolver como Full Stack
+- 🔭 Atualmente estudando para me tornar um Dev Full Stack
 
 <div align=center>
     <h2>Ferramentas e Tecnologias</h2>
