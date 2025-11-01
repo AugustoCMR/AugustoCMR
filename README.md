@@ -2,7 +2,7 @@
 
 <br>
 
-- 🌱 Estou aprendendo: Html-css-js | PHP | SQL | Git 
+- 🌱 Estou aprendendo: REACT | NEST 
 - 📫 Como me contactar: Linkedin logo abaixo!
 - 🔭 Atualmente estudando para me tornar um Dev Full Stack
 
