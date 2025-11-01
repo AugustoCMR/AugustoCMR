@@ -2,7 +2,7 @@
 
 <br>
 
-- 🌱 Estou aprendendo: REACT | NEST 
+- 🌱 Estou aprendendo: React | Nest  
 - 📫 Como me contactar: Linkedin logo abaixo!
 - 🔭 Atualmente estudando para me tornar um Dev Full Stack
 
