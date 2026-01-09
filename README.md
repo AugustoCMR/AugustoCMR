@@ -2,9 +2,9 @@
 
 <br>
 
-- 🌱 Estou aprendendo: React | Nest  
+- 🌱 Estou aprendendo:  Nest | Java | Spring
 - 📫 Como me contactar: Linkedin logo abaixo!
-- 🔭 Atualmente estudando para me tornar um Dev Full Stack
+- 🔭 Atualmente aprimorando meu conhecimento como Dev Back End
 
 <div align=center>
     <h2>Ferramentas e Tecnologias</h2>
