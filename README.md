@@ -2,7 +2,7 @@
 
 <br>
 
-- 🌱 Estou aprendendo:  Nest | Java | Spring
+- 🌱 Estou aprimorando meu conhecimentos em:  Nest | Laravel | PHP | React
 - 📫 Como me contactar: Linkedin logo abaixo!
 - 🔭 Atualmente aprimorando meu conhecimento como Dev Back End
 
