@@ -2,7 +2,7 @@
 
 <br>
 
-- 🌱 Estou aprimorando meu conhecimentos em:  Nest | Laravel | PHP | React
+- 🌱 Estou aprimorando meu conhecimentos em:  Laravel | PHP | React | Docker
 - 📫 Como me contactar: Linkedin logo abaixo!
 - 🔭 Atualmente aprimorando meu conhecimento como Desenvolvedor de Software
 
